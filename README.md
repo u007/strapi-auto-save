@@ -46,3 +46,11 @@ useInterval(function() {
     }
   }, 20 * 1000);
 ```
+
+# helps
+
+Please consider [donating](https://mercstudio.github.io/github-pages-stripe-checkout/) to me to continue my passion to help people in the StrapiJS community.
+
+https://mercstudio.github.io/github-pages-stripe-checkout/
+
+thank you :)
